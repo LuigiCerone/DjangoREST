@@ -1,7 +1,3 @@
 
 .gitignore
-.idea/dictionaries/
-.idea/firstProject.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
+.idea/
